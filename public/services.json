@@ -1,0 +1,44 @@
+[
+    {
+        "service_name": "HIIT Fusion",
+        "image": "https://images.unsplash.com/photo-1537289150563-b7f10eee353b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGd5bSUyMGV4Y2VyY2lzZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.8,
+        "price": 49,
+        "description": "Experience the ultimate fitness transformation with our HIIT Fusion program. Combining high-intensity interval training (HIIT) with elements of strength training, cardio, and flexibility exercises, this comprehensive program is designed to push your limits, burn fat, and sculpt lean muscle. Whether you're a beginner or a seasoned athlete, our expert trainers will guide you through challenging yet rewarding workouts that will elevate your fitness journey to new heights."
+    },
+    {
+        "service_name": "Empower Yoga",
+        "image": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGd5bSUyMGV4Y2VyY2lzZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.9,
+        "price": 29,
+        "description": "Embark on a transformative journey of self-discovery and wellness with our Empower Yoga program. Tailored for beginners, this holistic approach to yoga goes beyond physical postures, offering a deeper exploration of breathwork, meditation, and mindfulness practices. Cultivate strength, flexibility, and inner peace as you connect with your body, mind, and spirit. Join our supportive community and awaken your full potential through the power of yoga."
+    },
+    {
+        "service_name": "Strength Evolution",
+        "image": "https://plus.unsplash.com/premium_photo-1674440623819-2b97fa8df20e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 4.7,
+        "price": 39,
+        "description": "Unlock your true strength potential with our Strength Evolution program. This comprehensive training guide takes you on a progressive journey of muscle development, performance enhancement, and physique transformation. From fundamental movement patterns to advanced lifting techniques, our expert coaches provide personalized guidance and programming to help you achieve your fitness goals. Whether you're a novice lifter or a seasoned athlete, this program is your roadmap to success in the world of strength training."
+    },
+    {
+        "service_name": "Cardio Kickboxing",
+        "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 4.6,
+        "price": 59,
+        "description": "Elevate your cardio workouts and unleash your inner warrior with our Cardio Kickboxing classes. Fusing the dynamic movements of kickboxing with heart-pumping cardio exercises, this exhilarating workout will challenge your body and empower your spirit. Burn calories, improve coordination, and learn self-defense techniques in a supportive and inclusive environment. Let our experienced instructors guide you through high-energy routines that will leave you feeling strong, empowered, and ready to conquer any challenge."
+    },
+    {
+        "service_name": "Pilates Reformer",
+        "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 4.5,
+        "price": 69,
+        "description": "Transform your body and revitalize your mind with our Pilates Reformer program. Utilizing the innovative Pilates Reformer machine, this dynamic workout focuses on core strength, stability, and alignment to improve posture, flexibility, and overall fitness. Guided by certified instructors, you'll experience a full-body workout that targets every muscle group, from head to toe. Whether you're rehabilitating from injury, enhancing athletic performance, or seeking a low-impact exercise option, Pilates Reformer offers endless possibilities for physical and mental rejuvenation."
+    },
+    {
+        "service_name": "HIIT Fusion",
+        "image": "https://plus.unsplash.com/premium_photo-1670513671926-9300250feb41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGd5bSUyMGV4Y2VyY2lzZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.8,
+        "price": 49,
+        "description": "Experience the ultimate fitness transformation with our HIIT Fusion program. Combining high-intensity interval training (HIIT) with elements of strength training, cardio, and flexibility exercises, this comprehensive program is designed to push your limits, burn fat, and sculpt lean muscle. Whether you're a beginner or a seasoned athlete, our expert trainers will guide you through challenging yet rewarding workouts that will elevate your fitness journey to new heights."
+    }
+]
